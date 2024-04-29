@@ -1,5 +1,6 @@
 # ChatGPT-Taking-Pictures-simultaneously15
-# Created by Wassim Ch.
+# Created by Wassim Ch using free Chat GPT 3.5.
+# Anyone can contribute to improve this program.
 
 import cv2
 import os
