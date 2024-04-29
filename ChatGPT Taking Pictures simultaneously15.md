@@ -1,7 +1,7 @@
 # ChatGPT-Taking-Pictures-simultaneously15
 # Created by Wassim Ch using free Chat GPT 3.5.
 # Anyone can contribute to improve this program.
-# This program is for taking Pictures from multiple cameras approximately 120 cams at the same time to create a 3D plastic sample of people, A small plastic Colored Figurine.
+# This Python program is for taking Pictures from multiple cameras approximately 120 cams at the same time to create a 3D plastic sample of people, A small plastic Colored Figurine.
 
 import cv2
 import os
